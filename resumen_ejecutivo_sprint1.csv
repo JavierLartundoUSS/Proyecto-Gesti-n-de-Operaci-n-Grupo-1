@@ -2,9 +2,9 @@
 Observaciones,60
 Inicio histórico,2020-01
 Fin histórico,2024-12
-Modelo seleccionado,"SARIMA final (2,0,1)(0,1,1,12)"
-MAE,438.3729955456447
-RMSE,502.8168904264954
-MAPE (%),4.620979975084175
-Sesgo,-86.45116143373616
-Total pronosticado,115543.74059274385
+Modelo seleccionado,"SARIMA Box-Jenkins (2, 0, 1)(0, 1, 1, 12)"
+MAE,438.65520428840546
+RMSE,503.0519122995182
+MAPE (%),4.624560869574963
+Sesgo,-87.06965063891842
+Total pronosticado,115544.4254373447

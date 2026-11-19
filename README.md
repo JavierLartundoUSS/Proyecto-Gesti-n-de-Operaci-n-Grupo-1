@@ -20,4 +20,6 @@ El modelo seleccionado fue **SARIMA (2,0,2)(0,1,1)₁₂**, priorizado entre los
 
 La selección de SARIMA se fundamentó en su menor MAE y RMSE, un MAPE competitivo, bajo sesgo absoluto y residuos sin autocorrelación significativa. El modelo se reentrenó con las 60 observaciones disponibles para generar el pronóstico de enero a diciembre de 2025, acompañado de intervalos de predicción al 95%.
 
-Los resultados obtenidos proporcionan una base cuantitativa para desarrollar la planificación agregada de producción del Sprint 2. 
+Los resultados obtenidos proporcionan una base cuantitativa para desarrollar la planificación agregada de producción del Sprint 2.
+
+> Hecho con amor por el Equipo 1 y Copilot. 
